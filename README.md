@@ -1,8 +1,7 @@
-# import the xlsx 
-# Open the file path
-pip install virtualenv<br>
-pip install -r requirements.txt<br>
-pip freeze > requirements.txt<br>
-cd project_folder<br>
-virtualenv venv<br>
-pip install -r requirements.txt <br>
+# import the xlsx
+pip3 install xlrd
+pip3 install openpyxl
+# Results
+![Plot](https://github.com/Chrischrislch/Windrose/blob/main/1.png)
+![plot](https://github.com/Chrischrislch/Windrose/blob/main/2.png)
+![plot](https://github.com/Chrischrislch/Windrose/blob/main/3.png)
